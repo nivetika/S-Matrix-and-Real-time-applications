@@ -121,7 +121,7 @@ Unlike RF systems, we cannot easily measure voltage or current in optical system
 
 <img width="556" height="439" alt="image" src="https://github.com/user-attachments/assets/29d515e6-4440-4e84-9fb8-737b0b6ba878" />
 
-<h3>3..Waveguides</h3>
+<h3>3.Waveguides</h3>
   Waveguides are specialized structures designed to direct electromagnetic waves, especially at microwave and millimeter-wave frequencies. Unlike traditional transmission lines, waveguides confine energy within a hollow metallic or dielectric path, allowing signals to travel with extremely low loss. They are widely used where high-frequency efficiency, minimal attenuation, and controlled propagation are necessary. For example, rectangular and circular waveguides are common in radar, satellite communication, and high-power microwave systems, while dielectric waveguides such as optical fibers dominate in long-distance telecommunication networks.
 
 A waveguide supports electromagnetic waves in the form of specific field patterns called modes. These include TE (Transverse Electric) modes and TM (Transverse Magnetic) modes, each having its own cutoff frequency. Below this cutoff frequency, the wave simply cannot propagate. This property naturally makes a waveguide behave like a high-pass filter, allowing only high-frequency signals to travel while blocking lower-frequency interference. The most commonly used mode is the TE₁₀ mode in rectangular waveguides because it offers the lowest cutoff frequency and provides stable, efficient transmission.
