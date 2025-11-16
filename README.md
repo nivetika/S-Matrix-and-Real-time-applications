@@ -80,3 +80,6 @@ Unlike RF systems, we cannot easily measure voltage or current in optical system
 - Return loss (quality of connectors)
 
 - Leakage or isolation between ports
+
+<img width="556" height="439" alt="image" src="https://github.com/user-attachments/assets/29d515e6-4440-4e84-9fb8-737b0b6ba878" />
+
